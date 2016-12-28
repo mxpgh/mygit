@@ -5,4 +5,5 @@ Git tracks changes of files.
 Git tracks add.
 Git tracks add22.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
